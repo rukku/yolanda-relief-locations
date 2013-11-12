@@ -1,0 +1,141 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "ABS-CBN Iloilo", "Description": "Category: Media Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 122.581249, 10.710707, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ABS-CBN Cebu", "Description": "Category: Media Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 123.967119, 10.364062, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "GILT Artisan Lounge", "Description": "Drop Off Center Category: Others Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 124.014031, 10.326066, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "UC Banilad", "Description": "Drop-off Center Category: Academe Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 123.928115, 10.336607, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Titay's Lilo-an Rosquillos", "Description": "Drop-Off Center Category: Others Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 123.912022, 10.308011, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "PSWDO", "Description": "Drop Off Center and Packing Area Category: Government Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 123.907403, 10.314824, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Politics Cafe", "Description": "Drop-Off Center Category: Others Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 123.910267, 10.315764, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ABS-CBN Sagip Kapamilya", "Description": "Category: Media Contact Numbers: 411-0013, 411-0014, 411-0015, 411-0182, 411-0183, 416-6300  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.052926, 14.637808, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Philippine National Red Cross", "Description": "Drop Off Center Category: NGO Contact Numbers: (+632) 527.0000 Address:  Email address or Website: http:\/\/www.redcross.org.ph\/donate" }, "geometry": { "type": "Point", "coordinates": [ 120.986466, 14.589294, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "University of San Carlos - Talamban Campus (SSC office, CAFA guidance office and St. Arnold's Hall)", "Description": "It's a relief operation by the student organizations in USC spearheaded by USC Junior Jaycees. Category: Academe Contact Numbers: Johari Villegas - 09336341513 Address:  Email address or Website: https:\/\/www.facebook.com\/USCJuniorJaycees" }, "geometry": { "type": "Point", "coordinates": [ 123.929783, 10.350062, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "University of San Carlos - Main Campus (SSC office, SHOTS office & SYBEE office)", "Description": "t's a relief operation by the student organizations in USC spearheaded by USC Junior Jaycees Category: Academe Contact Numbers: Arianne Paralisan - 09433040366 Address:  Email address or Website: https:\/\/www.facebook.com\/USCJuniorJaycees" }, "geometry": { "type": "Point", "coordinates": [ 123.915364, 10.297465, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Victory Christian Fellowship", "Description": "Category: Church Contact Numbers:  Address:  Email address or Website: victory.org.ph" }, "geometry": { "type": "Point", "coordinates": [ 121.073917, 14.549825, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "U! Happy Events", "Description": "Category: Others Contact Numbers: (0917)887-4278 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.064892, 14.548010, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Give a Drop of Love, CFC Foundation, Inc. WWP ", "Description": "Category: Others Contact Numbers: 718-2213 or (0923)583-8577 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.070186, 14.580570, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Philippine Red Cross Davao Chapter", "Description": "Donations Drop Off Center Category: NGO Contact Numbers: (082) 227-6650, (082) 227-3949 Address:  Email address or Website: http:\/\/www.redcross.org.ph\/davaocity" }, "geometry": { "type": "Point", "coordinates": [ 125.627779, 7.070477, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Crea8tech Solutions \/ GBG Davao \/ Davao Bloggers Society", "Description": "Donations Drop Off Center Category: Others Contact Numbers: (082) 224 0340 Address:  Email address or Website: http:\/\/www.crea8tech.com\/" }, "geometry": { "type": "Point", "coordinates": [ 125.628981, 7.071231, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ateneo de Davao University", "Description": "Donations Drop Off Center Category: Academe Contact Numbers: 221-2411 local 8245 Address:  Email address or Website: http:\/\/www.addu.edu.ph\/" }, "geometry": { "type": "Point", "coordinates": [ 125.629637, 7.070120, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Abreeza Mall", "Description": "Donations Drop Off Center Category: Others Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 125.627436, 7.089358, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ABS-CBN Sagip Kapamilya Foundation – Davao", "Description": "Donations Drop Off Center Category: Media Contact Numbers: (082) 296 1913 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 125.595568, 7.066955, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Sweet Spot Artisan Ice Cream", "Description": "Donations Drop Off Center Category: Others Contact Numbers: Bianca Garcia Dizon - Ambassador of Habitat for Humanity (Davao City) Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 125.615026, 7.095207, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Department of Tourism Davao", "Description": "Donations Drop Off Center Category: Government Contact Numbers: +63822210070, +63822251940 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 125.628053, 7.082288, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tabang Tacloban", "Description": "Donations Drop off center. Please contact organizer for meetup. Category: NGO Contact Numbers: Gloryrose and Glorypearl Dy \/ 09219205803 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 125.589073, 7.055339, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "The Dream Project Philippines", "Description": "Category: NGO Contact Numbers: 09088100424 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.062362, 14.570238, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "ETYSBM Student Council", "Description": "Category: Academe Contact Numbers: (0915)446-9715 or Edgar Aquino (0905)149-2319 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.038370, 14.560260, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Santuario de San Anotio Church ", "Description": "Category: Church Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.050137, 14.545321, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ateneo Professional Schools", "Description": "Category: Academe Contact Numbers: 09162504430 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.051898, 14.561246, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Lyceum College of Law", "Description": "Category: Academe Contact Numbers: Fudge Tajar at 0915 3422304 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.036657, 14.558208, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "St. Scholastica's College ", "Description": "Category: Academe Contact Numbers:  Address:  Email address or Website: lizaban2@gmail.com" }, "geometry": { "type": "Point", "coordinates": [ 121.012918, 14.562079, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "UP College of Medecine", "Description": "Category: Academe Contact Numbers: Miko - 09175129144 or Gela - 09277029488 Address:  Email address or Website: twitter:@PhiLambdaDelta" }, "geometry": { "type": "Point", "coordinates": [ 121.002823, 14.573706, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tarabanagan, Tara Bangon", "Description": "Category: NGO Contact Numbers: JONATHAN JAIME G. GUERRERO - 09175928610JOHN JERVIE ALCERA - 09179270262MELLIE MORCOZO - 09153161527 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 123.740561, 13.140562, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Ramon Aboitiz Foundation, Inc.", "Description": "Category: Others Contact Numbers: Edwin Marfil (local 510) or Totits Ocampo (local 204) at (032) 418-7234 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 123.921221, 10.297457, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Municipal Social Welfare Department Office (MSWD)", "Description": "Category: Government Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 124.015847, 10.397341, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Gawad Kalinga- Iloilo", "Description": "Category: NGO Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 122.596393, 10.698281, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Tubig Para Sa Mga Biktima ni Yolanda", "Description": "Drop off Center. Please contact organizer for meetup. Category: NGO Contact Numbers: Perry Lequigan \/ 09192354417, 09173112987 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 125.628273, 7.073216, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Point 28", "Description": "Category:  Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.029495, 14.552814, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "EAT PLAY LOVE - for the children of TYPHOON YOLANDA", "Description": "Category: NGO Contact Numbers: Maan 0916-649-0303 or Imee 0927-879-2000 or contact church directly at 810-5366 Address:  Email address or Website: churchofgodmakati@cogm" }, "geometry": { "type": "Point", "coordinates": [ 121.028963, 14.552795, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Greenhills Christian Fellowship", "Description": "Category: Church Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.077484, 14.586595, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Megawide Office Building", "Description": "Category: Others Contact Numbers: 09175637629 Address:  Email address or Website: asalgado@megawide.com" }, "geometry": { "type": "Point", "coordinates": [ 121.017245, 14.546140, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "MVP Tulong Kapatid Relief Center", "Description": "Category: Media Contact Numbers: 0939- 9133771 or 632-8301 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.080279, 14.587737, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Illumedia Outsourcing", "Description": "Donations Drop Off Center Category: Others Contact Numbers: 2956711 Address:  Email address or Website: http:\/\/illumedia.net\/" }, "geometry": { "type": "Point", "coordinates": [ 125.590424, 7.054769, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "GBG Iloilo \/ Mavericks Web Marketing", "Description": "Category: Others Contact Numbers: 09151434164 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 122.576829, 10.691626, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Jaro Archdiocesan Youth Commission", "Description": "Relief Goods Drop Off Category: Church Contact Numbers: 09391866240 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 122.574710, 10.721660, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Western Visayas", "Description": "Relief Goods Drop Off Center Category: DSWD Contact Numbers: (033) 337-6221 Address: M. H. del Pilar Street, Molo, Iloilo City Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 122.564088, 10.696222, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Central Visayas", "Description": "Relief Goods Drop Off Center Category: DSWD Contact Numbers: (032) 232-9507 Address: MJ Cuenco Avenue corner Gen. Maxilom Ave., Cebu City Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 123.924108, 10.306675, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Eastern Visayas", "Description": "Relief Goods Drop-Off Center Category: DSWD Contact Numbers: (053) 321-2040 Address: Magsaysay Blvd., Tacloban City Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 125.021866, 11.248844, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD National Capital Region", "Description": "Relief Goods Drop Off Category: DSWD Contact Numbers: (02) 733-0010 Address: 389 San Rafael Street, corner Legarda Street, Sampaloc, Manila Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.006808, 14.596713, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Central Luzon", "Description": "Relief Drop Off Center Category: DSWD Contact Numbers: (045) 246-7021 Address: Government Center, Maimpis, San Fernando, Pampanga Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 120.672970, 15.061784, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Cagayan Valley", "Description": "Relief Drop Off Center Category: DSWD Contact Numbers: (078) 846-7043 Address: 3 Dala na Pagayaya, Regional Government Center, Carig Sur, Tuguegarao City, Cagayan Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.768481, 17.651066, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Ilocos Region", "Description": "Relief Drop Off Centers Category: DSWD Contact Numbers: (072) 888-3527 Address: Quezon Avenue, San Fernando, La Union Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 120.333547, 16.608589, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Calabarzon", "Description": "Relief Goods Drop Off Category: DSWD Contact Numbers: (02) 807-7102 Address: Alabang, Zapote Road, Alabang, Muntinlupa City Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.048007, 14.423178, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Mimaropa", "Description": "Relief Goods Center Category: DSWD Contact Numbers: (02) 525-2445; 523-9117; 523-6077; 303-0532 to 33 Address: 1680 F.T. Benitez corner Gen. Malvar Sts., Malate, Manila Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 121.008372, 14.574418, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Cordillera", "Description": "Relief Goods Center Category: DSWD Contact Numbers: (074) 442-7917 Address: 40 North Drive, Baguio City Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 120.617574, 16.406619, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Bicol", "Description": "Relief Goods Drop Off Category: DSWD Contact Numbers: (052) 480-5346; 820-1310 Address: Magnolia St., PBN Buraguis, Legaspi City Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 123.769886, 13.133230, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Zamboanga Peninsula", "Description": "Relief Goods  Category: DSWD Contact Numbers: (062) 991-6030\/56\/76 Address: General Vicente Alvarez St., Zamboanga City Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 122.096649, 6.901610, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Northern Mindanao", "Description": "Relief Goods Drop Off Center Category: DSWD Contact Numbers: (088) 858-8892 Address: Masterson Ave., Upper Carmen, Cagayan De Oro City Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 124.649377, 8.467042, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Habitat for Humanity Philippines - Davao\/Caraga Regional Office", "Description": "Donations Drop Off Center Category: NGO Contact Numbers: 285-2714, 09228358149, 09211598211 Address:  Email address or Website: https:\/\/www.facebook.com\/HabitatDavaoPH" }, "geometry": { "type": "Point", "coordinates": [ 125.604533, 7.058793, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SM City Davao - Operation Tulong Express", "Description": "Donations drop off center. Booths are located at Entrance 1. Category: Others Contact Numbers: (082) 2976998 Address:  Email address or Website: https:\/\/www.facebook.com\/smcitydavao" }, "geometry": { "type": "Point", "coordinates": [ 125.604606, 7.047774, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "SM Lanang Premier - Operation Tulong Express", "Description": "Donations drop off center. Booths are located at the Upper Ground Level, near Terranova. Category: Others Contact Numbers: (082) 2850943 Address:  Email address or Website: https:\/\/www.facebook.com\/smlanangpremier" }, "geometry": { "type": "Point", "coordinates": [ 125.647103, 7.097022, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Mindanao State University - Iligan Institute of Technology - Tabang Visayas", "Description": "Donations Drop Off Center Category: Academe Contact Numbers: 09161568628 Address:  Email address or Website: http:\/\/www.msuiit.edu.ph\/" }, "geometry": { "type": "Point", "coordinates": [ 124.261144, 8.237403, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Cor Jesu College - Student Government", "Description": "Relief goods drop off center. Contact the organizer for meetup. Category: Academe Contact Numbers: Ardeen Roy Diamante \/ 09097525439 Address:  Email address or Website: http:\/\/www.cjc.edu.ph" }, "geometry": { "type": "Point", "coordinates": [ 125.369813, 6.749088, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Karl's Koffee Korner", "Description": "Category: Others Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 125.664981, 7.127199, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Karl's Koffee Korner", "Description": "Relief goods drop off center Category: Others Contact Numbers: King Naidas \/ 09228805556 Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 125.665003, 7.127178, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "DSWD Field Office XI", "Description": "Relief goods drop off center. Needs volunteers. Category: DSWD Contact Numbers: (082) 2271964 Address: Suazo St., cor. Magsaysay Ave., Davao City Email address or Website: http:\/\/www.fo11.dswd.gov.ph\/" }, "geometry": { "type": "Point", "coordinates": [ 125.618405, 7.073753, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Villa Margarita", "Description": "Relief goods drop off center.  Category: Others Contact Numbers: Marga Nograles \/ 2215675 Address:  Email address or Website: http:\/\/www.villamargaritahotel.com\/" }, "geometry": { "type": "Point", "coordinates": [ 125.614430, 7.094047, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Point 56", "Description": "Category:  Contact Numbers:  Address:  Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 124.848289, 6.496976, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Department of Social Welfare and Development (DSWD) - Field Office Caraga", "Description": "Category: DSWD Contact Numbers: RD: (085) 342-7605; 815-9173 F Address: R. Palma St., Butuan City Email address or Website: " }, "geometry": { "type": "Point", "coordinates": [ 125.533524, 8.940840, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Iligan Computer Institute", "Description": "Relief goods drop off center. Only accept until November 15 (Friday). Category: Academe Contact Numbers: 2230204 Address:  Email address or Website: http:\/\/ici.edu.ph\/" }, "geometry": { "type": "Point", "coordinates": [ 124.239967, 8.229178, 0.000000 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "Iligan Computer Institute - CDO Branch", "Description": "Relief goods drop off center. Only accept until November 15 (Friday). Category: Academe Contact Numbers: 740829 Address:  Email address or Website: http:\/\/ici.edu.ph\/" }, "geometry": { "type": "Point", "coordinates": [ 124.754161, 8.508069, 0.000000 ] } }
+
+]
+}
